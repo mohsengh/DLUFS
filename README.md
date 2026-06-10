@@ -1,4 +1,4 @@
-# DLUFS: Low-Rank Dictionary Learning for Unsupervised Feature Selection
+# DLUFS: Dictionary Learning for Unsupervised Feature Selection
 
 [![Paper](https://img.shields.io/badge/Paper-Engineering%20Applications%20of%20Artificial%20Intelligence-blue)](https://doi.org/10.1016/j.eswa.2022.117149)
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.eswa.2022.117149-orange)](https://doi.org/10.1016/j.eswa.2022.117149)
