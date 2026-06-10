@@ -119,13 +119,7 @@ X ∈ ℝ^(p×n)
 
 DLUFS solves:
 
-min(A,B,Z)
-
-||X − ABZ||²_F
-
-* α Tr(ZLZᵀ)
-
-* λ ||Z||₂,₁
+min(A,B,Z)    ||X − ABZ||²_F  +  α Tr(ZLZᵀ)  +  λ ||Z||₂,₁
 
 where
 
