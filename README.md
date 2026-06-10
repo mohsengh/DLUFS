@@ -236,9 +236,7 @@ Mohsen Ghassemi Parsa
 
 Email: [mgparsa@ut.ac.ir](mailto:mgparsa@ut.ac.ir)
 
-GitHub:
-
-https://github.com/mohsengh
+GitHub: https://github.com/mohsengh
 
 ---
 
