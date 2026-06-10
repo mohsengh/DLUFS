@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+
+title: "DLUFS: Low-rank Dictionary Learning for Unsupervised Feature Selection"
+
+message: "If you use this software, please cite the associated paper."
+
+type: software
+
+authors:
+
+* family-names: "Parsa"
+  given-names: "Mohsen Ghassemi"
+  orcid: "https://orcid.org/0000-0002-9537-1255"
+
+repository-code: "https://github.com/mohsengh/DLUFS"
+
+license: MIT
+
+keywords:
+
+* unsupervised feature selection
+* dictionary learning
+* low-rank representation
+* sparse learning
+* spectral analysis
+* machine learning
+
+preferred-citation:
+type: article
+authors:
+- family-names: "Parsa"
+given-names: "Mohsen Ghassemi"
+- family-names: "Zare"
+given-names: "Hadi"
+- family-names: "Ghatee"
+given-names: "Mehdi"
+
+title: "Low-rank Dictionary Learning for Unsupervised Feature Selection"
+
+journal: "Engineering Applications of Artificial Intelligence"
+
+volume: 202
+
+pages: 117149
+
+year: 2022
+
+doi: "10.1016/j.eswa.2022.117149"
